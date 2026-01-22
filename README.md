@@ -16,8 +16,8 @@ I also create content and share knowledge on **software development**.
   <a href="https://github.com/jurandydev">
     <img src="https://img.shields.io/badge/GitHub-JURANDYDEV-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/jurandy.snts">
-    <img src="https://img.shields.io/badge/Instagram-@JURANDY.SNTS-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/jurandy.sants">
+    <img src="https://img.shields.io/badge/Instagram-@JURANDY.SANTS-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@jurandy.sntss">
     <img src="https://img.shields.io/badge/TikTok-@JURANDY.SNTSS-000000?style=for-the-badge&logo=tiktok" />
