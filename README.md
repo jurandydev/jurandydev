@@ -1,7 +1,7 @@
 # Hi 👋, I'm Jurandy
 
-🚀 **Studying Software Engineering**  
-🇧🇷 Brazil
+🚀 **Studying Software Engineering at Positivo University**  
+🇧🇷 Brazil,Londrina
 
 I build **scalable products** **and** **high-performance web systems**.  
 I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
