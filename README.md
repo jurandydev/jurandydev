@@ -3,11 +3,7 @@
 🚀 **Studying Software Engineering at Positivo University**  
 🇧🇷 Brazil,Londrina
 
-I build **scalable products** **and** **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development**.
-
+I am a Software Engineering student at Universidade Positivo, and I believe that technology is, above all, a tool to solve problems and create value. Driven by curiosity and a desire for constant evolution, I am currently seeking my first professional opportunity to transform academic theory into real-world solutions. My current technical focus is on building a solid foundation. I have been exploring the Front-end universe with HTML5 and CSS3, while dedicating my current efforts to mastering Python and refining my programming logic. More than just writing code, I value teamwork and knowledge sharing. I believe that collective success is what sustains great projects; therefore, I approach every new challenge with proactivity, responsibility, and a lifelong learner mindset.
 ---
 
 ## 🌐 Where to find me
@@ -26,15 +22,6 @@ I also create content and share knowledge on **software development**.
 
 ---
 
-## 🧠 What I do
-
--   🏗️ High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
-
----
 
 ## 🚀 Philosophy
 
