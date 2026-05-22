@@ -11,8 +11,8 @@
   <a href="https://github.com/jurandydev">
     <img src="https://img.shields.io/badge/GitHub-JURANDYDEV-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/jurandy.santoz">
-    <img src="https://img.shields.io/badge/Instagram-@JURANDY.SANTOZ-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/jurandysn">
+    <img src="https://img.shields.io/badge/Instagram-@JURANDYSN-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@jurandy.sntss">
     <img src="https://img.shields.io/badge/TikTok-@JURANDY.SNTSS-000000?style=for-the-badge&logo=tiktok" />
